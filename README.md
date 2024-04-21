@@ -1,9 +1,6 @@
 # OpenSSL-Encryption-Assignment
  This repository contains batch files for performing various encryption and decryption tasks using OpenSSL command line tools. Tasks include generating self-signed certificates, encrypting files with shared keys, computing and verifying hashes, and more.
 
-## OpenSSL Encryption Assignment
-
-This repository contains batch files for performing various encryption and decryption tasks using OpenSSL command line tools.
 
 ### Task 1: Generate Self Signed Certificte and Private/Public Key Pair
 
